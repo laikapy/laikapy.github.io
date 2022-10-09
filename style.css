@@ -472,8 +472,4 @@ form .send-btn:hover{
   }
 }
 
-@media(max-width: 900px){
-  .balls{
-    height: 2000vh;
-  }
-}
+
